@@ -9,12 +9,13 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://menghif.github.io.',
-  baseUrl: '/my-docusaurus-website',
+  baseUrl: '/my-docusaurus-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'menghif', // Usually your GitHub org/user name.
   projectName: 'my-docusaurus-website', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
