@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'uvacoder',
   tagline: 'Dino Starter',
-  url: 'https://uvacoder.github.io.',
+  url: 'https://uvacoder.github.io',
   baseUrl: '/my-docusaurus-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
