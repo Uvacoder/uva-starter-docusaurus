@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://menghif.github.io.',
+  title: 'uvacoder',
+  tagline: 'Dino Starter',
+  url: 'https://uvacoder.github.io.',
   baseUrl: '/my-docusaurus-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'menghif', // Usually your GitHub org/user name.
+  organizationName: 'uvacoder', // Usually your GitHub org/user name.
   projectName: 'my-docusaurus-website', // Usually your repo name.
   trailingSlash: false,
 
